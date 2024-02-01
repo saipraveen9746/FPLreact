@@ -1,0 +1,96 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #37003c;
+    padding-left: 30px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    position: relative; 
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+.navtext-2 {
+    list-style-type: none;
+    display: flex;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+   
+}
+
+li {
+    margin-left: 0px;
+}
+.text-1{
+    /* padding-left: 690px; */
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Mulish', sans-serif;
+  
+    
+    
+}
+.text {
+    padding-left:30px ;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Mulish', sans-serif;
+    padding-top: 200px;
+   
+   
+}
+
+.pl-header-logo {
+    height: 100px; 
+    position: absolute; 
+    /* left: 75%;  */
+    transform: translateX(-50%); 
+    top: 5px; 
+
+}
+
+.logocontainer {
+    position: relative; 
+}
+
+
+/* .logocontainer{ 
+    width: 8.8rem; 
+    height: 20.2rem;
+    margin-top: 2.8rem;
+    /* object-fit: contain; */
+     /* z-index: inherit;
+
+
+} */ 
+
+.Fpl-text{
+    padding-left: 0px;
+    text-decoration: none;
+    color: aqua;
+    font-size: 50px;
+    font-family:'Mulish', sans-serif;
+    
+
+    
+
+}
+.nav-text-1{
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    margin-left: 40px;
+
+
+}
+
+.nav-left{
+    display: flex;
+}
+.nav-right{
+    margin-right: 40px;
+}

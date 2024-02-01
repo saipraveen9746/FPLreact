@@ -1,0 +1,9 @@
+.imgg{
+    width: 655px;
+    height: auto;
+
+}
+
+.image-container {
+    display: flex; 
+  }

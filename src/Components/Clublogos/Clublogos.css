@@ -1,0 +1,29 @@
+.image-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* max-height: auto; */
+    /* max-width: 20px; */
+    height: 50px;
+
+}
+ 
+
+
+
+ /* .Image-1{
+    margin: 10x;
+    width: 10px;
+    height: 10px;
+
+} */
+/* .Image-2{
+    margin: 10x;
+    width: 10px;
+    height: 10px;
+
+} */
+
+.Image:hover{
+    transform: scale(1.5);
+}
